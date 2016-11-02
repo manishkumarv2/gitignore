@@ -37,6 +37,12 @@ playground.xcworkspace
 # Packages/
 .build/
 
+# OS X
+ -.DS_Store
+
+## V2 Specific
+faraday.log
+
 # CocoaPods
 #
 # We recommend against adding the Pods directory to your .gitignore. However
